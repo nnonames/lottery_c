@@ -1,3 +1,3 @@
 # lottery_c
 
-NEED <libsodium>
+NEED_<libsodium>
